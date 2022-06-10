@@ -1,6 +1,11 @@
 # projeto-infusion-curso-web
 Página web desenvolvida no curso de Desenvolvimento Web Front-end. Página web feita com o conceito <i>'mobile first'</i> utilizando HTML, CSS e Javascript para sua criação.
 
+# Tecnologias utilizadas:
+  * HTML5
+  * CSS3
+  * JavaScript
+
 # Images
 ## Mobile:
 
