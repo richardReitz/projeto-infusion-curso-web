@@ -1,5 +1,9 @@
-# projeto-infusion-curso-web
+# Projeto Infusion
 Página web desenvolvida no curso de Desenvolvimento Web Front-end. Página web feita com o conceito <i>'mobile first'</i> utilizando HTML, CSS e Javascript para sua criação.
+https://infusion.vercel.app/
+
+# Deploy do site:
+  * <a href="https://infusion.vercel.app/">Link</a>
 
 # Tecnologias utilizadas:
   * HTML5
